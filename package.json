@@ -2,10 +2,10 @@
   "name": "nodesever",
   "version": "1.0.0",
   "description": "node server test",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
