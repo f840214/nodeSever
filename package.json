@@ -2,7 +2,7 @@
   "name": "nodesever",
   "version": "1.0.0",
   "description": "node server test",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "jest"
